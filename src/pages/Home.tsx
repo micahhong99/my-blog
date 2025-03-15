@@ -1,7 +1,6 @@
 import { Link } from 'react-router-dom'
 import { Layout, Typography, Button } from 'antd'
 import { FC } from 'react' // 引入 FC 类型
-import React from 'react'
 
 const { Header, Content } = Layout
 const { Title } = Typography

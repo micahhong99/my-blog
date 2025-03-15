@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom'
 import { List, Typography } from 'antd'
-import React from 'react'
 
 const data = [
   { id: 1, title: '第一篇文章' },
