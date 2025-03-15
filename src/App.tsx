@@ -4,8 +4,8 @@ import Navbar from './components/Navbar'
 import Home from './pages/Home'
 import Blog from './pages/Blog'
 import Post from './pages/Post'
-import MarkdownPage from "./pages/MarkdownPage";
-import Links from "./pages/Links";
+import MarkdownPage from './pages/MarkdownPage'
+import Links from './pages/Links'
 
 const App: React.FC = () => {
   return (

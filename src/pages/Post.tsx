@@ -8,7 +8,6 @@ const Post = () => {
     <div style={{ padding: '20px' }}>
       <Typography.Title level={2}>文章 {id}</Typography.Title>
       <Typography.Paragraph>这里是文章 {id} 的内容...</Typography.Paragraph>
-      
     </div>
   )
 }
