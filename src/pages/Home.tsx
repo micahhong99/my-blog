@@ -1,3 +1,8 @@
+/*
+ * @filename: Home.tsx
+ * @filePath: src/pages/Home.tsx
+ * @description: 首页
+ */
 import { Link } from 'react-router-dom'
 import { Layout, Typography, Button } from 'antd'
 import { FC } from 'react' // 引入 FC 类型

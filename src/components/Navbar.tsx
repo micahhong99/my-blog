@@ -1,3 +1,8 @@
+/*
+ * @filename: Navbar.tsx
+ * @filePath: src/components/Navbar.tsx
+ * @description: 导航栏组件
+ */
 import { Link } from 'react-router-dom'
 import { Menu } from 'antd'
 

@@ -1,3 +1,8 @@
+/*
+ * @filename: main.tsx
+ * @filePath: /src/main.tsx
+ * @description: 入口文件
+ */
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 // import './index.css'

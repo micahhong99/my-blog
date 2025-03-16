@@ -1,3 +1,8 @@
+/*
+ * @filename: Post.tsx
+ * @filePath: src/pages/Post.tsx
+ * @description: 文章页面
+ */
 import { useParams } from 'react-router-dom'
 import { Typography } from 'antd'
 
