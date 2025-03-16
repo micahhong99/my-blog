@@ -2,7 +2,7 @@
   "name": "my-blog",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://micahhong99.github.io/my-blog",
+  "homepage": "https://micahhong99.github.io/my-blog/",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -13,10 +13,17 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "@ant-design/charts": "^2.2.7",
     "@ant-design/icons": "^5.6.1",
+    "@types/echarts": "^5.0.0",
+    "ant-design": "^1.0.0",
     "antd": "^5.24.3",
+    "axios": "^1.8.3",
+    "echarts": "^5.6.0",
+    "echarts-for-react": "^3.0.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-echarts": "^0.1.1",
     "react-markdown": "^10.1.0",
     "react-router-dom": "^7.3.0",
     "remark-gfm": "^4.0.1"
